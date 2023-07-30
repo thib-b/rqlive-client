@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "284d93eae5b036889f9f2dc26fb7e03bda427ae3016648e16373c923958a58c3"
+build_start_time: [1690754836, 378113000]
+build_end_time: [1690754837, 356155000]
+inputs:
+  "/Users/thib/dev/rqlive/rqlive-client/rqlive_client/macos/Flutter/GeneratedPluginRegistrant.swift": [1690754832, 410076565]
+  "/Users/thib/dev/rqlive/rqlive-client/rqlive_client/macos/Runner/AppDelegate.swift": [1689202870, 0]
+  "/Users/thib/dev/rqlive/rqlive-client/rqlive_client/macos/Runner/MainFlutterWindow.swift": [1689202870, 0]
