@@ -1,2 +1,2 @@
 # rqlive-client
-flutter client for rqlive
+Synchronized, low-latency crowd-stage interaction mobile client for rqlive.
